@@ -1,0 +1,13 @@
+Requirement,Control,Evidence,Owner,Status,Risk
+1,Firewall Rules Review,Firewall Configuration,Infrastructure,Pending,High
+2,Hardening Standards,Secure Baselines,Operations,Pending,Medium
+3,PAN Encryption,Encryption Evidence,Security,Pending,High
+4,TLS Configuration,Certificate Review,Infrastructure,Pending,High
+5,Endpoint Protection,EDR Reports,SOC,Pending,Medium
+6,Patch Management,Vulnerability Reports,DevSecOps,Pending,High
+7,RBAC Review,Access Matrix,Identity,Pending,High
+8,MFA Enforcement,Authentication Logs,Identity,Pending,High
+9,Physical Security,Access Logs,Facilities,Pending,Medium
+10,SIEM Monitoring,Audit Logs,SOC,Pending,High
+11,Penetration Testing,Pentest Reports,Security Testing,Pending,High
+12,Security Program,Policies and Risk Assessment,GRC,Pending,High
